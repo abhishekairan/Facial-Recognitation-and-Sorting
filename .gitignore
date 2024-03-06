@@ -21,9 +21,8 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-pics*
-stored-faces*
-sorted*
+*.xml
+*.pkl
 *.egg-info/
 .installed.cfg
 *.egg
